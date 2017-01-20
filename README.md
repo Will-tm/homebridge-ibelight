@@ -1,6 +1,5 @@
 # Homebridge-iBeLight
 homebridge-plugin RGB Styles iBeLight control with Apple-Homekit. 
-2011.
 
 #Installation
 Follow the instruction in [NPM](https://www.npmjs.com/package/homebridge) for the homebridge server 
